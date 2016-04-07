@@ -41,7 +41,7 @@ footer{
 	width: 70px;
 }
 
-#board li:hover{
+#board li:hover, #reset:hover{
 	background: #000;
 	cursor: pointer;
 }
